@@ -51,6 +51,7 @@ Paper, Code and Resources for Speech Language Model and End2End Speech Dialogue 
 - [Freeze-Omni: A Smart and Low Latency Speech-to-speech Dialogue Model with Frozen LLM](https://arxiv.org/abs/2411.00774) - `arXiv 2024`
 - [Hertz-dev](https://github.com/Standard-Intelligence/hertz-dev) - `GitHub 2024`
 - [Fish Agent](https://github.com/fishaudio/fish-speech) - `GitHub 2024`
+- [KE-Omni: Advancing Speech Language Models by Scaling Supervised Fine-Tuning with Over 60,000 Hours of Synthetic Speech Dialogue Data](https://arxiv.org/abs/2412.01078) `arXiv 2024`
 
 ### Benchmark
 - [VoiceBench: Benchmarking LLM-Based Voice Assistants](https://arxiv.org/abs/2410.17196) - `arXiv 2024`
@@ -62,7 +63,7 @@ Paper, Code and Resources for Speech Language Model and End2End Speech Dialogue 
 - SyncLLM: [Beyond Turn-Based Interfaces: Synchronous LLMs as Full-Duplex Dialogue Agents](https://arxiv.org/abs/2409.15594) - `arXiv 2024`
 - [Enabling Real-Time Conversations with Minimal Training Costs](https://arxiv.org/abs/2409.11727) - `arXiv 2024`
 
-
+  
 ## Survey
 - [Towards audio language modeling -- an overview](https://arxiv.org/abs/2402.13236) - `arXiv 2024`
 - [Recent Advances in Speech Language Models: A Survey](https://arxiv.org/abs/2410.03751) - `arXiv 2024`
