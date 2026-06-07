@@ -22,6 +22,7 @@ Paper, Code and Resources for Speech Language Model and End2End Speech Dialogue 
 - [Qwen2-Audio Technical Report](https://arxiv.org/abs/2407.10759) - `arXiv 2024`
 - [WavLLM: Towards Robust and Adaptive Speech Large Language Model](https://arxiv.org/abs/2404.00656) - `EMNLP 2024`
 - DiVA: [Distilling an End-to-End Voice Assistant Without Instruction Training Data](https://arxiv.org/abs/2410.02678) - `arXiv 2024`
+- [SenseVoice: Multilingual Speech Understanding with Multi-Task Speech Foundation Model](https://arxiv.org/abs/2407.04051) - `arXiv 2024`
 
 ### Benchmark
 - [Dynamic-SUPERB: Towards A Dynamic, Collaborative, and Comprehensive Instruction-Tuning Benchmark for Speech](https://arxiv.org/abs/2309.09510) - `ICASSP 2024`
@@ -31,6 +32,7 @@ Paper, Code and Resources for Speech Language Model and End2End Speech Dialogue 
 - SALMon: [A Suite for Acoustic Language Model Evaluation](https://arxiv.org/abs/2409.07437) - `arXiv 2024`
 - [MMAU: A Massive Multi-Task Audio Understanding and Reasoning Benchmark](https://www.arxiv.org/abs/2410.19168) - `arXiv 2024`
 - [Dynamic-SUPERB Phase-2: A Collaboratively Expanding Benchmark for Measuring the Capabilities of Spoken Language Models with 180 Tasks](https://openreview.net/forum?id=s7lzZpAW7T) - `ICLR 2024 open review`
+- [MMAR: A Challenging Benchmark for Deep Reasoning in Speech, Audio, Music, and Their Mix](https://arxiv.org/abs/2505.13032) - `NeurIPS 2025`
 
 ## End2End Speech Dialogue System
 
