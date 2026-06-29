@@ -23,6 +23,7 @@ Paper, Code and Resources for Speech Language Model and End2End Speech Dialogue 
 - [WavLLM: Towards Robust and Adaptive Speech Large Language Model](https://arxiv.org/abs/2404.00656) - `EMNLP 2024`
 - DiVA: [Distilling an End-to-End Voice Assistant Without Instruction Training Data](https://arxiv.org/abs/2410.02678) - `arXiv 2024`
 - [SenseVoice: Multilingual Speech Understanding with Multi-Task Speech Foundation Model](https://arxiv.org/abs/2407.04051) - `arXiv 2024`
+- [Fun-ASR-Nano-2512: LLM-based multilingual ASR model](https://github.com/FunAudioLLM/Fun-ASR) - `GitHub 2025`
 
 ### Benchmark
 - [Dynamic-SUPERB: Towards A Dynamic, Collaborative, and Comprehensive Instruction-Tuning Benchmark for Speech](https://arxiv.org/abs/2309.09510) - `ICASSP 2024`
