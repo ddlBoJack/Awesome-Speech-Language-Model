@@ -64,6 +64,7 @@ Paper, Code and Resources for Speech Language Model and End2End Speech Dialogue 
 - LSLM: [Language Model Can Listen While Speaking](https://arxiv.org/abs/2408.02622) - `arXiv 2024`
 - SyncLLM: [Beyond Turn-Based Interfaces: Synchronous LLMs as Full-Duplex Dialogue Agents](https://arxiv.org/abs/2409.15594) - `arXiv 2024`
 - [Enabling Real-Time Conversations with Minimal Training Costs](https://arxiv.org/abs/2409.11727) - `arXiv 2024`
+- DuplexJev: [Batched Speech Decisions Without Decoding: Single-Token Supervision Lets a Frozen LLM Hear Beyond the Transcript](https://arxiv.org/abs/2610.02638) - `arXiv 2026`
 
   
 ## Survey
